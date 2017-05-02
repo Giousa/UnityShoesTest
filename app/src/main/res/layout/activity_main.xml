@@ -14,5 +14,17 @@
         android:layout_height="700px"
         android:background="@color/colorAccent"/>
 
+    <Button
+        android:id="@+id/btn_left"
+        android:text="Left"
+        android:layout_width="200px"
+        android:layout_height="200px"/>
+
+    <Button
+        android:id="@+id/btn_right"
+        android:text="Right"
+        android:layout_width="200px"
+        android:layout_height="200px"/>
+
 
 </LinearLayout>
